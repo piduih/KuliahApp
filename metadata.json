@@ -1,0 +1,7 @@
+{
+  "name": "Senarai Kuliah Masjid & Surau di Malaysia",
+  "description": "A web application to record and manage lecture schedules at mosques and suraus. Users can add, view, edit, and delete lecture details including topic, speaker, location, date, and time. Data is saved locally in the browser.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

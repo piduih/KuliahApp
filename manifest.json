@@ -1,0 +1,24 @@
+{
+  "short_name": "Rekod Kuliah",
+  "name": "Rekod Kuliah Masjid & Surau",
+  "description": "Aplikasi untuk merekod dan menguruskan jadual kuliah di masjid dan surau.",
+  "icons": [
+    {
+      "src": "https://www.gstatic.com/images/branding/product/1x/drive_2020q4_48dp.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://www.gstatic.com/images/branding/product/1x/drive_2020q4_48dp.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "background_color": "#F9FAFB",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#4F46E5"
+}
