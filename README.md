@@ -1,6 +1,9 @@
 # Rekod Kuliah Masjid & Surau
 
-![Antaramuka Aplikasi Rekod Kuliah](./screenshot.png)
+<img width="795" height="515" alt="image" src="https://github.com/user-attachments/assets/adbb57ba-d80f-40d1-b211-8c4e49cc8311" />
+
+<img width="775" height="483" alt="image" src="https://github.com/user-attachments/assets/4e945a61-b8d2-494d-a4ac-1f78d83d166e" />
+
 
 *Tangkapan skrin di atas menunjukkan borang untuk menambah rekod kuliah baru dalam aplikasi.*
 
